@@ -38,7 +38,7 @@ The following types of expenses, if incurred in compliance with this policy and 
 
 Ground transportation: car rental, mileage, gas, public transportation (railroad, bus, business use of personal vehicle taxi/shuttle), tolls and parking (with appropriate receipt) 
 
-As reference, approved federal per diem rates can be found at [`gsa.gov/perdiem`](www.gsa.gov/perdiem) and can be searched by city or county.  If neither of these are listed for your location, the standard rate will be applied. There are also many organizations that choose to have a combination of both per diem and an accountable plan.  
+As reference, approved federal per diem rates can be found at [`gsa.gov/perdiem`](https://www.gsa.gov/perdiem) and can be searched by city or county.  If neither of these are listed for your location, the standard rate will be applied. There are also many organizations that choose to have a combination of both per diem and an accountable plan.  
 
 As we’ve seen, choosing the type of plan that is best for your organization can be a complex decision.  A good place to start is to look at the regulations or applicable grant requirements that apply to your organization or the project prior to implementing or making any changes.  It’s always a good idea to discuss proposed changes with your auditor or accounting professional before implementing them. And remember, whether it’s per diem, accountable, or a combination, the most important part is consistent enforcement of your policy.
 
