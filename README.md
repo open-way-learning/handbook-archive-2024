@@ -1,2 +1,2 @@
-# handbook
-The Open Way Learning Organizational Handbook
+# Open Way Learning Organizational Handbook
+This repository contains the Open Way Learning organizational handbook
