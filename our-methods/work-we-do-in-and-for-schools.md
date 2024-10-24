@@ -1,3 +1,7 @@
+---
+description: How Open Way Learning assists educators
+---
+
 # Work We Do In and For Schools
 
 Open Way Learning’s core focus is to help education practitioners see first hand how to bring cultures of learner-centered innovation within their own learning communities.
@@ -35,7 +39,7 @@ We do this through workshops, design sprints, coaching, and other targeted suppo
 * Provide time for self reflection after activities and at the end of the day
 * End the day/workshop with a crescendo (tap into the emotion of the work)
 
-Note that [this rubric](https://docs.google.com/spreadsheets/d/1hV\_ih2\_98p5\_J63su9xibnsJi-\_fSBcDHRF3gJxtbPQ/edit?usp=sharing) can be used as a way to quantify the above attributes following each workshop or client-facing interaction.&#x20;
+Note that [this rubric](https://docs.google.com/spreadsheets/d/1hV\_ih2\_98p5\_J63su9xibnsJi-\_fSBcDHRF3gJxtbPQ/edit?usp=sharing) can be used as a way to quantify the above attributes following each workshop or client-facing interaction.
 
 We also ensure that these interactions not only address short term capacity building, but also a long term focus on the systems and cultural elements that local practitioners and supporters will need to sustain and scale the work across the entire learning community. We also ensure that our clients are able to build networks of community support at the local level and beyond so that they can learn, share, and create together in service of building and advancing learner-centered models, systems, and structures across the country. This networking commitment is in full alignment with our vision that the kind of educational transformation that is needed in this country will not come from top down initiatives or any one institution, but will come from networked, crowdsourced change.
 
