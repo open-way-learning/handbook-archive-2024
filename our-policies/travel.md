@@ -14,9 +14,11 @@ To be reimbursable, all expenses incurred must be necessary to the business of t
 An OWL manager for a specific client project or the COO will authorize each domestic business trip in advance of travel via the issuance of an approved Statement of Work (for employees) and both the Statement of Work and Contractor Scope of Work (for consultants). 
 
 It’s important to note that compensation is handled differently for exempt and non-exempt OWL employees, as well as consultants who provide services for OWL. Exempt OWL employees are compensated on a monthly basis and not on a fee-for-service basis. Non-exempt OWL employees and independent contractors are compensated based on the rates and terms articulated in the applicable Statement of Work and/or Contractor Scope of Work for the service in question. Reimbursements for any travel-related expenses are equally applicable to all employees and consultants, as described in this policy.
+
 When traveling on behalf of OWL, employees and consultants should spend money on reasonable and necessary expenses as if it were their own. 
 
 Upon the issuance of approved documentation as described above, it is the employee's or consultant’s responsibility to make the necessary travel arrangements in a timely manner, ideally 30-45 days from the date of service. Note that depending on the nature of the service and Scope of Work, the OWL Administrative Assistant may book travel arrangements on behalf of OWL employees. 
+
 Employees may accumulate personal reward points, miles, etc. on for work related travel for OWL, however, they are expected to book travel according to the lowest reasonable rate and not for better perks from credit card or vendor loyalty programs, including company credit cards. 
 
 Employees must book travel and accommodations through credible and nationally recognized travel providers (e.g., verified by the [Better Business Bureau](https://www.bbb.org/), Yelp ratings, etc.), with rates and protocols that can be verified as being consistent with generally accepted industry practice. This includes the use of known and reputable air/hotel/car companies whenever possible.
@@ -24,13 +26,14 @@ Employees must book travel and accommodations through credible and nationally re
 Any exceptions to this Policy that employees need must be approved in writing by the COO prior to arranging travel. Failure to obtain advance approval may result in the refusal of reimbursement of travel expenses. Exception requests must include reference to the approved Statement of Work, screenshots from the travel platform being used (as evidence of the need as relevant), and a detailed reason for the request in the body of the email.
 
 Requests for reimbursement must be made via the Productive.io platform, or in the case of contractors, via an invoice to Open Way Learning that includes the dates of travel, reference to an approved Contractor Scope of Work, the invoice number, and itemized listing of all travel expenses, including electronic copies of all receipts. 
+
 Misuse or violation of the Travel Policy and guidelines may result in disciplinary action, up to and including termination of the employee or termination of a contract agreement with a Consultant.
 
 ## Reimbursable expenses
 The following types of expenses, if incurred in compliance with this policy and while on OWL business, may be submitted for reimbursement: 
 
 * Airfare, including taxes and handling fees 
-* Per diem amount for meals and accommodations [^1]
+* Per diem amount for meals and accommodations [^per-diem]
 * Baggage handling 
 
 Ground transportation: car rental, mileage, gas, public transportation (railroad, bus, business use of personal vehicle taxi/shuttle), tolls and parking (with appropriate receipt) 
@@ -142,6 +145,7 @@ The COO must approve any travel to a country or a region designated by the US St
 
 ### Service cancellations
 If a client contacts an employee or consultant about a cancellation or rescheduling of a service, the employee or consultant should connect the client to the OWL COO immediately so they can negotiate next steps. 
+
 If OWL notifies employees or consultants that a service has been canceled, the employee or consultant is responsible for canceling all travel-related expenses. OWL will reimburse or cover any cancellation fees incurred for travel, as long as receipts are made available.
 
 If a non-refundable flight is canceled, the credit will remain in the employee or consultant’s account. It is expected that employees and consultants will use this credit on the next possible flight for OWL related services. 
@@ -197,6 +201,8 @@ Employees are not permitted, under any circumstances, to operate a company vehic
 Employees who violate company vehicle rules are subject to disciplinary actions which may include verbal and written warnings, suspension of vehicle privileges, termination and legal action.
 
 ## Travel FAQs
+Frequently asked questions about travel for Open Way Learning
+
 ### How do I book air and hotel travel?
 You are free to use any reputable travel platform or app as long as you look for the accepted and reasonably lowest cost options for the travel that’s needed for the service you are to provide. For airfare, this should be the lowest cost option, without having to fly a “redeye” to and from your home airport, unless the airfare is more than 20% of the lowest other option. For accommodations, you are free to select any you wish, knowing that the reimbursement amount will only cover the local per diem rates.
 
@@ -222,7 +228,7 @@ If you have a company credit card, you are expected to use it for all travel exp
 In general, yes. Employees with a company credit card are free to use the points or airline mileage they accumulate for personal use. The same is true for other rewards programs such as hotel points or rental car rewards. However, the employee must not allow the point accumulation to be the driving motivation for selecting flights, hotels, rental cars, etc. That decision should be strictly based on the lowest reasonable cost to the nonprofit. Likewise, the company AMEX cards generally come with an annual fee that must be offset through rewards or miles earmarked for company travel (e.g. if I have a $300 annual fee for my card, I need to ensure that I use an equivalent amount of miles or points from that card for business travel). Apart from that offset, all remaining mileage and points are free for me to use for personal travel.
 
 ### Where do I log the amount of time I spent for a service?
-All full and part time OWL employees are expected to track all time spent preparing, facilitating, and doing post-service follow-up via the Productive platform (note that some temporary employees may not have access to this platform and will keep a separate time log that is submitted to their manager on at least a monthly basis). Consultants should keep an [itemized time log]([url](https://docs.google.com/spreadsheets/d/1vj9ju-TZZC_zXfiFVuziwU7feTnk3H0rzWPtDzZsoq4/edit?usp=sharing)) that will be used as the basis for compensation after the service is completed and per the rates agreed to in the Statement of Work and/or Contractor Scope of Work for that service.
+All full and part time OWL employees are expected to track all time spent preparing, facilitating, and doing post-service follow-up via the Productive platform (note that some temporary employees may not have access to this platform and will keep a separate time log that is submitted to their manager on at least a monthly basis). Consultants should keep an [itemized time log](https://docs.google.com/spreadsheets/d/1vj9ju-TZZC_zXfiFVuziwU7feTnk3H0rzWPtDzZsoq4/edit?usp=sharing) that will be used as the basis for compensation after the service is completed and per the rates agreed to in the Statement of Work and/or Contractor Scope of Work for that service.
 
 ### Do I need to differentiate between service prep, service delivery, and post service deliverables?
 This depends on the rate schedule mentioned in the applicable Statement of Work and/or Contractor Scope of Work. In many cases, there is a flat rate in the service contract, although in some cases, rates are different for planning, travel, and on-line service delivery. 
@@ -233,4 +239,4 @@ This also depends on the service contract with the client and will be specified 
 ### What is the expected total number of planning hours for each facilitation hour?
 In general, an OWL employee is expected to spend 0.5 days of planning per 1 day of service. This may vary, however, depending on prior service experience, the type of service being provided, etc. Please verify this amount with the OWL project manager if it is not explicitly stated in the applicable Statement of Work.
 
-[^1]: Please note that per diem amounts will vary depending on location and it is your responsibility to know what amount has been specified in each contract so that you can keep total meal and accommodation expenses within those amounts. Also note that the total per diem amount is what is tracked, and not individual expenses. For example, employees may “bank” their spending on one day and then apply that later in a trip (e.g. ordering the dollar menu at McDonalds so that you can enjoy a much nicer meal on another day). 
+[^per-diem]: Please note that per diem amounts will vary depending on location and it is your responsibility to know what amount has been specified in each contract so that you can keep total meal and accommodation expenses within those amounts. Also note that the total per diem amount is what is tracked, and not individual expenses. For example, employees may “bank” their spending on one day and then apply that later in a trip (e.g. ordering the dollar menu at McDonalds so that you can enjoy a much nicer meal on another day). 
