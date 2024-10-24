@@ -1,3 +1,3 @@
-# Our purpose
+# The Open Way Learning Handbook
 
-This section of the Open Way Learning Handbook describes the organization's purpose—our history, our mission, our vision, and our core values.
+This is the official organizational handbook for [Open Way Learning](https://www.openwaylearning.org/).
