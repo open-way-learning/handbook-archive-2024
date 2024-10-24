@@ -2,7 +2,7 @@
 description: How Open Way Learning assists educators
 ---
 
-# Work We Do In and For Schools
+# Work we do in and for schools
 
 Open Way Learning’s core focus is to help education practitioners see first hand how to bring cultures of learner-centered innovation within their own learning communities.
 

@@ -2,7 +2,7 @@
 description: Open Way Learning's mission and vision
 ---
 
-# Mission & Vision
+# Mission and vision
 
 Open Way Learning is a 501(c)3 nonprofit with a singular mission to help schools develop, sustain, and scale cultures of learner-centered innovation that better prepare students for the realities of the 4th Industrial Revolution, especially students historically furthest from opportunity. The premise behind Open Way Learning’s work is based on three core beliefs:&#x20;
 
