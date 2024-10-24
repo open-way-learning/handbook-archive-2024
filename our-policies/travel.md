@@ -2,6 +2,8 @@
 description: Open Way Learning's travel policies
 ---
 
+# Travel
+
 The intent of this policy is to help ensure that all business related travel done by Open Way Learning (OWL) employees is fair and equitable to both the traveler and the organization. Note that all independent contractors working on behalf of OWL are strongly encouraged to follow this Travel Policy, but per IRS policy, OWL cannot mandate its compliance. Nevertheless, this policy is provided as reference to independent contractors and (for clarity, herein deemed consultants) so that they have the option of following the same protocols as OWL employees, in lieu of their own, for any OWL-related travel.
 
 This Travel Policy is not intended to cover every possible situation or scenario that may arise. In all matters, travelers are representing OWL and should act in an ethical, practical and fiscally responsible manner. 
