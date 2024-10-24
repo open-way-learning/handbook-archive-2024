@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Our purpose](README.md)
+* [The Open Way Learning Handbook](README.md)
+* [Our purpose](our-purpose/README.md)
   * [History](our-purpose/history.md)
   * [Mission & Vision](our-purpose/mission-and-vision.md)
   * [Values](our-purpose/values.md)
