@@ -2,7 +2,7 @@
 description: Open Way Learning's approach to working with partners and clients
 ---
 
-# Partner/client-facing work
+# Project management and client-facing work
 
 The overwhelming majority of the work that Open Way Learning does is client-facing projects with teachers, administrators, and other key stakeholders in schools, districts, or other educational organizations. Each of these projects has a customized scope, sequence, and timing that is co-designed with the client per their own needs, goals, and assets. To ensure compliance with all legal, finance, and insurance requirements, the actual work must be done per a [Statement of Work](https://docs.google.com/document/d/1br4BXUVkxq2ASWy6z6U3c273ROUnRUc4n54Y9CiqwbM/edit?usp=sharing), which constitutes a formal contract between OWL and the client that specifies timing, terms and rates, scope of work, client contacts, desired outcomes, etc. This Statement of Work is coordinated by an OWL Project Manager (the primary contact for the project) and supported by a second OWL employee (the secondary contact). These two roles are vitally important to ensure all aspects of the Statement of Work are addressed as intended and in a way that demonstrates OWL’s commitment to the highest levels of service quality and client satisfaction. Given the critical nature of the primary and secondary contacts for each project, OWL has developed the following set of expectations for these roles as a way to ensure a consistent level of excellence is provided for every client interaction.
 
