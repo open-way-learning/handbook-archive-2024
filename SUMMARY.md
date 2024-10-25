@@ -2,6 +2,7 @@
 
 * [The Open Way Learning Handbook](README.md)
 * [Definition of terms](definition-of-terms.md)
+* [Employment statement](employment-statement.md)
 * [Our purpose](our-purpose/README.md)
   * [History](our-purpose/history.md)
   * [Mission and vision](our-purpose/mission-and-vision.md)
