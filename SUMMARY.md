@@ -11,7 +11,7 @@
   * [Strategy overview](our-strategy/strategy-overview.md)
   * [Key tactics](our-strategy/key-tactics.md)
 * [Our methods](our-methods/README.md)
-  * [Partner/client-facing work](our-methods/partner-client-facing-work.md)
+  * [Partner/client-facing work](our-methods/project-management-and-client-facing-work.md)
   * [Work we do in and for schools](our-methods/work-we-do-in-and-for-schools.md)
   * [The collaborative culture we model in our work](our-methods/the-collaborative-culture-we-model-in-our-work.md)
 * [Our policies](our-policies/README.md)
