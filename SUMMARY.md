@@ -19,3 +19,5 @@
   * [Work we do in and for schools](our-methods/work-we-do-in-and-for-schools.md)
 * [Our policies](our-policies/README.md)
   * [Travel](our-policies/travel.md)
+* [Our terms](our-terms/README.md)
+  * [Terms of Use for Open Way Learning Materials](our-terms/terms-of-use-for-owl-materials.md)
