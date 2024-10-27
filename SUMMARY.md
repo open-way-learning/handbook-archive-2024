@@ -20,4 +20,4 @@
 * [Our policies](our-policies/README.md)
   * [Travel](our-policies/travel.md)
 * [Our terms](our-terms/README.md)
-  * [Terms of Use for Open Way Learning Materials](our-terms/terms-of-use-for-owl-materials.md)
+  * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
