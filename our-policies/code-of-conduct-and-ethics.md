@@ -3,11 +3,9 @@ description: Open Way Learning's Code of Conduct and Ethics
 ---
 
 # Code of conduct and ethics
-
 Open Way Learning is committed to the highest standards of legal and ethical business conduct and operates its business consistent with written operating principles and policies that reinforce this commitment. This Code of Conduct & Ethics (Code) adopted by OWL's Board of Directors (Board) summarizes the ethical standards for all directors, officers, and employees (sometimes identified as Team Members) of Open Way Learning and is a reminder of the seriousness of our commitment to our values. Compliance with this Code is mandatory for every employee. In addition to this Code, employees are subject to and must comply with other applicable policies and programs of Open Way Learning. Note that for the purpose of this document, Open Way Leaning is known as "OWL" or "The Nonprofit."
 
 ## Introduction
-
 Our business as an education nonprofit is complex in terms of the locations, contexts, and cultures in which we function, as well as the various laws and regulations with which we must comply. To help employees understand what is expected of them and to carry out their responsibilities in as consistent a way as possible, we have created this Code. Responsibility for overseeing adherence to this Code shall rest with the Chief Operations Officer (COO), under the direction of the Board.
 
 This Code represents a non-exhaustive list of employment compliance matters that every employee should be aware of and keep in mind when communicating with OWL stakeholders, partners, clients, vendors, contractors, or the general public. It also provides the foundational basis for all internal communication, interaction, and decisions. No single document can serve as a complete guide for every situation, but what it does do is set the overall tone and tenor for the abundance of employment compliance matters that we must not only adhere to, but the importance of why careful communication is a minimum expectation of employment with Open Way Learning. In short, this Code provides a minimum essential set of rules that we expect all Open Way Learning employees to abide by in order to promote the orderly and efficient operation of the organization, as well as protect the rights of all stakeholders we interact with in the course of our work. 
@@ -15,11 +13,9 @@ This Code represents a non-exhaustive list of employment compliance matters that
 Finally, these rules are published for your information and protection and ignorance of the details of this Code is not an acceptable excuse for violation. Moreover, all employees are expected to be familiar with applicable laws and regulations in their area of operation, and OWL expressly prohibits any activity by employees that violates any applicable law or regulation. Violations of the law, our policies, or this Code may result in disciplinary action, including dismissal.
 
 ## Employee statement
-
 Unless an employee has a written employment agreement with Open Way Learning, which provides differently, all employment at Open Way Learning is "at‐will." That means that employees may be terminated from employment with Open Way Learning with or without cause, and employees are free to leave the employment of Open Way Learning with or without cause. Any representation by any Open Way Learning officer or employee contrary to this policy is not binding upon Open Way Learning unless it is in writing and approved by the OWL Board. 
 
 ## Equal employment opportunity
-
 Open Way Learning follows the spirit and intent of all federal, state and local employment law and is committed to equal employment opportunity. To that end, the Board of Directors and all officers of Open Way Learning will not discriminate against any employee or applicant in a manner that violates the law. Open Way Learning is committed to providing equal opportunity for all employees and applicants without regard to race, color, religion, national origin, sex, age, marital status, sexual orientation, disability, political affiliation, personal appearance, family responsibilities, matriculation or any other characteristic protected under federal, state or local law. 
 
 Each person is evaluated on the basis of personal skill and merit. Open Way Learning's policy regarding equal employment opportunity applies to all aspects of employment, including recruitment, hiring, job assignments, promotions, working conditions, scheduling, benefits, wage and salary administration, disciplinary action, termination, and social, educational and recreational programs. The COO shall act as the responsible agent in the full implementation of the Equal Employment Opportunity policy. 
@@ -27,7 +23,6 @@ Each person is evaluated on the basis of personal skill and merit. Open Way Lear
 Open Way Learning will not tolerate any form of unlawful discrimination. All employees are expected to cooperate fully in implementing this policy and any employee who believes that any other OWL employee may have violated the Equal Employment Opportunity Policy should report the possible violation to the Chair of the Board. If the Board determines that a violation of this policy has occurred, it will take appropriate disciplinary action against the offending party, which can include counseling, warnings, suspensions, and termination. Employees who report, in good faith, violations of this policy and employees who cooperate with investigations into alleged violations of this policy will not be subject to retaliation. Upon completion of the investigation, the Board will inform the employee who made the complaint of the results of the investigation. 
 
 ## Individuals with disabilities policy
-
 Open Way Learning fully complies with the Americans with Disabilities Act (ADA) and all applicable state, provincial, and other applicable local laws, which make it unlawful to discriminate in employment against a qualified individual with a disability. OWL prohibits discrimination against team members and applicants with disabilities in all aspects of employment. Our commitment to this policy includes making reasonable accommodations to otherwise qualified individuals\* with disabilities to enable them to perform the essential functions of their jobs, unless doing so would pose an undue hardship on our business, would pose a direct threat of substantial harm to the team member or others, or is otherwise not required by applicable law. 
 
 The roles and responsibilities specific to this policy include the following:
@@ -114,7 +109,6 @@ Upon completion of the investigation, Open Way Learning will inform the employee
 Compliance with this policy is a condition of each employee’s employment. Employees are encouraged to raise any questions or concerns about this policy or about possible discriminatory harassment with the President or Chief Operations Officer. Note that in addition to this policy, employees should also be aware that the federal Equal Employment Opportunity Commission (EEOC) investigates and, in appropriate cases, prosecutes complaints of harassment, discrimination, and retaliation in employment. The EEOC, after a hearing, awards damages to individuals actually injured as a result of such conduct, as well as other remedies. Information about the EEOC complaint procedure can be found on its website (www.eeoc.gov), or by calling 1-800-669-4000 (English), or 1-800-669-6820 (TTY).
 
 ## Whistleblower policy
-
 Employees have the right to report, without suffering retaliation, any activity by Open Way Learning or any of its employees that the employee reasonably believes: 1) violates any state or federal law; 2) violates or amounts to noncompliance with a state or federal rule or regulation; 3) violates fiduciary responsibilities by a nonprofit corporation, 4) or violates any for of this Code. In addition, employees can refuse to participate in an activity that would result in a violation of state or federal statutes, or a violation or noncompliance with a state or federal rule or regulation.
 
 Employees are also protected from retaliation for having exercised any of these rights in any former employment. The whistleblower protection laws do not entitle employees to violate a confidential privilege of the organization.
@@ -122,7 +116,6 @@ Employees are also protected from retaliation for having exercised any of these 
 Any employee who suspects a problem with legal compliance is required to report the situation(s) to the Board Chair or any Board member (contact information found [here](https://docs.google.com/spreadsheets/d/1B4OSl0HHguTf9Y0JhnTwXKSO-vRAQmtpJwTWo6Wi3Vo/edit?usp=sharing)). Employees may also report information regarding possible unlawful activity to an appropriate government or law enforcement agency.
 
 ## Compliance with all laws, rules and regulations
-
 OWL will comply with all laws and governmental regulations that are applicable to its activities and expects all employees to obey the law. Laws can be complex and at times, even counterintuitive. Although it’s impossible to know all aspects of every law, you should understand the major laws, rules and regulations that apply to your work. You should consult with our COO if you are unsure or have any questions or concerns related to your work. A few specific areas of legal compliance are discussed in greater detail below:
 
 * **Insider Trading**: As a nonprofit, OWL is not a publicly traded company. Nevertheless, because we believe firmly in transparency and trust across the organization, you may find yourself in possession of material nonpublic information, positive or negative, about other organizations with which we work, including confidential information about our clients, partners or other third parties. You may never buy or sell securities based on such inside information, nor can you tip off others to do so. It doesn’t matter how you learned the information—using material nonpublic information to trade securities is never acceptable. Doing so violates the law and the trust we have built with our fellow employees, and with our clients, partners, donors, and others.
@@ -130,7 +123,6 @@ OWL will comply with all laws and governmental regulations that are applicable t
 * **Fair Sales and Marketing Practices:** We compete for contracts based solely on the merits of our services. We do not participate in any activities that unfairly harm other organizations, including ones that might be deemed as being in direct competition with OWL. We want to win contracts, but win them fairly. We will accurately represent OWL and our services in our marketing materials and any other public-facing information. Deliberately providing misleading messages or leaving out important facts or false claims about our products and services is inconsistent with our policies regarding trust and transparency.
 
 ## Fair dealing
-
 All employees are required to deal honestly, ethically and fairly with clients, partners, competitors and other third parties. As an organization, we:
 
 * prohibit bribes, kickbacks or any other form of improper payment, direct or indirect, to any representative of a government, labor union, client or vendor in order to obtain a contract, some other commercial benefit or government action;
@@ -143,7 +135,6 @@ All employees are required to deal honestly, ethically and fairly with clients, 
 * prohibit our representatives from otherwise taking unfair advantage of our clients, partners or vendors, or other third parties, through manipulation, concealment, abuse of privileged information or any other unfair-dealing practice.
 
 ## Conflict of interest and outside employment
-
 OWL recognizes and respects employees' rights to engage in outside activities that they may deem proper and desirable, provided that these activities do not impair or interfere with the performance of their duties to OWL or their ability to act in OWL’s best interests. However, all employees must avoid situations in which their personal interests may conflict, or even appear to conflict, with the interests of OWL.
 
 It is not possible to list every situation that might give rise to a conflict of interest, but the information that follows serves as a guide, pointing out important areas where conflicts may arise. The responsibility for conduct within the letter and the spirit of this Code regarding conflicts of interest rests with each individual. It is, however, important to avoid not only any situation that is an obvious conflict of interest, but also to be aware of situations that could be perceived by an impartial observer to be a conflict:
@@ -255,7 +246,7 @@ For violation of any of the following rules of conduct, an employee shall be sub
 * Intentional falsification of personnel records, payroll reports or other OWL records.
 * Deliberate or careless conduct endangering the safety of self or other employees, including the provocation or instigation of violence.  
 * Consuming alcoholic beverages while on duty, except at approved functions, or the possession or consumption of illegal drugs.
-* Possession of a weapon, or any item that can be used as a weapon while on company business outside one’s home.   
+* Possession of a weapon, or any item that can be used as a weapon while on company business outside one’s home. 
 * Abusive, threatening or coercive treatment of another employee or member of the public.  
 * Breach of confidentiality. 
 * Using or appearing to use for personal gain any information obtained on the job, which is not readily available to the general public or disclosing such information that damages the interests of Open Way Learning or its clients.
@@ -272,11 +263,11 @@ Violations of this Code, regardless of whether an actual law has been violated, 
 
 OWL provides some employees whose job responsibilities require frequent business travel or purchasing on behalf of OWL access to an AMEX corporate credit card. This is a privilege and not a right and employees who have such cards are responsible for the following requirements:
 
-* Knowing and abiding by all the terms of use specified in the credit card contract, including knowing and operating within the specified credit limits, complying with all fraud-protection services, and ensuring payments for all expenses are made prior to any applicable deadlines.  
+* Knowing and abiding by all the terms of use specified in the credit card contract, including knowing and operating within the specified credit limits, complying with all fraud-protection services, and ensuring payments for all expenses are made prior to any applicable deadlines.
 * Managing their activities to ensure they maintain full access to the card while traveling. 
 * Contacting the credit card company in advance of any international travel.  
 * Configuring alerts to ensure they receive direct notification when fraud alerts are triggered.   
-* Immediately informing AMEX of a lost or stolen card, or suspected fraudulent transactions.   
+* Immediately informing AMEX of a lost or stolen card, or suspected fraudulent transactions. 
 * The OWL corporate card is only authorized for business-related expenses. Any personal expenses charged in error to the business card must be reimbursed to OWL as soon as possible.   
 * Major expenses of \>$1000 should be pre-approved by the employee’s manager or COO to ensure budget controls are maintained.  
 
@@ -309,11 +300,9 @@ Generally, each employee’s direct manager will be in the best position to quic
 
 ## Administration, waiver, and amendment
 
-The OWL Board is ultimately responsible for establishing the standards of business conduct contained in this Code. The OWL Board has delegated day-to-day responsibility for administering and interpreting the Code to the COO. The COO and their authorized delegates are responsible for administering this Code by overseeing compliance. While  
-serving in this capacity, the COO reports directly to the OWL Board.
+The OWL Board is ultimately responsible for establishing the standards of business conduct contained in this Code. The OWL Board has delegated day-to-day responsibility for administering and interpreting the Code to the COO. The COO and their authorized delegates are responsible for administering this Code by overseeing compliance. While serving in this capacity, the COO reports directly to the OWL Board.
 
-Any waiver of any provision of the Code for the benefit of a director or officer (which   
-includes without limitation, for purposes of the Code, OWL’s principal executive and financial officers), shall be effective only if approved by the Board in its sole discretion. Any waivers of the Code for other employees may be made by the COO.
+Any waiver of any provision of the Code for the benefit of a director or officer (which includes without limitation, for purposes of the Code, OWL’s principal executive and financial officers), shall be effective only if approved by the Board in its sole discretion. Any waivers of the Code for other employees may be made by the COO.
 
 OWL is committed to continuously reviewing and updating our policies and procedures. Therefore, this Code is subject to modification. Any amendment of this Code must be approved by the OWL Board and will be promptly communicated to all employees. Moreover, any amendments or waiver may also be publicly disclosed, if required by applicable laws, rules and regulations.
 
@@ -330,7 +319,7 @@ This policy is used as the basis for determining when destruction of records is 
 The OWL Records Retention Policy is based on a fundamental distinction between a "record" and a "non-record." This policy applies only to “records” per the definition below: 
 
 * A “record” is a document created or received by OWL in the transaction of business and contains significant business value. The business value of a record is derived from the legal, regulatory, fiscal, operational, or informational significance of the content. 
-* “Document” is defined as a piece of written, printed, or electronic matter that provides information or evidence or otherwise serves as an official record. It includes, but is not limited to software applications, files, paper, presentations, spreadsheets, electronic images or drawings, pictures, and emails.   
+* “Document” is defined as a piece of written, printed, or electronic matter that provides information or evidence or otherwise serves as an official record. It includes, but is not limited to software applications, files, paper, presentations, spreadsheets, electronic images or drawings, pictures, and emails. 
 * A “non-record” is everything that does not qualify as a “record.” Non-records are materials that OWL does not own, materials without substantive business value, or materials that have only temporary use as reference or reminders. They are not subject to OWL Records Retention Schedule and should be discarded when no longer needed. Examples of non-records include correspondence that is only needed for a short period of time and does not have substantive business value; calendars; informational items such as publications and extra copies of documents kept only for convenience or reference; personal or casual correspondence; reminders that are needed only for a short period of time and do not have substantive business value. 
 * A copy of a record is typically a duplicate that was created for dissemination or handy reference. There is no obligation to retain copies. Copies may be disposed of when they are no longer needed.
 
