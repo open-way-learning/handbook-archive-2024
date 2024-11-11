@@ -18,6 +18,7 @@
   * [Project management and client-facing work](our-methods/project-management-and-client-facing-work.md)
   * [Work we do in and for schools](our-methods/work-we-do-in-and-for-schools.md)
 * [Our policies](our-policies/README.md)
+  * [Code of conduct and ethics](our-policies/code-of-coduct-and-ethics.md)
   * [Travel](our-policies/travel.md)
 * [Our terms](our-terms/README.md)
   * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
