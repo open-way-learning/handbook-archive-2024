@@ -11,6 +11,7 @@
   * [The collaborative culture we model in our work](our-culture/the-collaborative-culture-we-model-in-our-work.md)
   * [OWL's collective leadership](our-culture/collective-leadership.md)
   * [The open source way](our-culture/the-open-source-way.md)
+  * [Commitment to equity](our-culture/commitment-to-equity.md)
 * [Our strategy](our-strategy/README.md)
   * [Strategy overview](our-strategy/strategy-overview.md)
   * [Key tactics](our-strategy/key-tactics.md)
