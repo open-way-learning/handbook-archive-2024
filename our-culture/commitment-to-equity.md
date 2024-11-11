@@ -2,6 +2,8 @@
 description: Open Way Learning's commitment to equity
 ---
 
+# Commitment to equity
+
 Open Way Learning stands in solidarity with the Black Lives Matter movement and with every organization that is fighting for racial equity and justice. The work that Open Way Learning does to create cultures of localized, authentic innovation is grounded in an explicit goal to close the unacceptable equity gap, enable more authentic culturally responsive learning environments, and ultimately dismantle systems of institutional racism and oppression that have existed for far too long within our schools and the education space in general. 
 
 Words are not enough, however, and so the work we do is aimed at explicitly modeling how to help enable the disruption of systems that directly or indirectly perpetuate inequality and injustice, especially for students who have historically been the furthest from opportunity. 
