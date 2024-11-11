@@ -26,3 +26,4 @@
   * [Travel](our-policies/travel.md)
 * [Our terms](our-terms/README.md)
   * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
+  * [Pricing structure](our-terms/pricing-structure.md)
