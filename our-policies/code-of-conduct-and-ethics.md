@@ -431,7 +431,7 @@ Compensation includes direct and indirect remuneration as well as gifts or favor
 #### Compensation
 A voting member of the board of directors who receives compensation, directly or indirectly, from the nonprofit for services is precluded from voting on matters pertaining to that member’s compensation. Any director whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the nonprofit, either individually or collectively, is prohibited from providing information to any committee regarding compensation.  
      
-#### Annual statements.
+#### Annual statements
 Each director shall annually sign [this statement](https://docs.google.com/document/d/1p-Z8e9J9KDFhgLnIar_4v1kt7PdhFzBZuFrVQVKBgTk/edit?usp=sharing), which affirms such person:  
 
    1. Has received a copy of this conflicts of interest policy,   
@@ -602,20 +602,17 @@ The COO will also prepare annual financial reports for distribution to the Treas
 * Any donated item with a value exceeding ($100) will be recorded and a letter acknowledging the donation will be sent to the donor within 30 days of the receipt of the donation. All volunteer time shall be recorded as in-kind donations.
 
 ### Section 10: Policy review
-
 All Open Way Learning policies are subject to periodic review by the Board of Directors, including this document and all other policies and procedures. This review is done to ensure such policies have continued relevance and the organization’s compliance with all applicable laws, regulations, and generally accepted best practices and may be initiated by any member of the Board of Directors.
 
 Likewise, the Board of Directors will periodically review the adequacy of its directors and officers liability insurance policy, as well as other applicable insurance policies the nonprofit may have or need.
 
 ## Appendix C: State & federal labor & employment notices
-
 Because Open Way Learning does not have typical brick and mortar offices, we don't have a physical worksite or break room wall upon which to post important labor and employment notices for team members. As such, [this summary](https://about.gitlab.com/handbook/labor-and-employment-notices/) from OWL (a similar “all remote” organization) provides such notices for each state. Likewise, [this document](https://www.dol.gov/agencies/whd/posters) provides similar reference for US Federal Labor Law notices.
 
-### Appendix D: Timekeeping policy
-
+## Appendix D: Timekeeping policy
 The purpose of this policy is to outline the timekeeping practices for all Open Way Learning employees. Accurately reporting time worked per specific contracts, grants, restricted donations, and government awards is the responsibility of every full and part time employee. Moreover, every nonexempt employee is required to keep an accurate record of total time worked to calculate employee pay and benefits. 
 
-#### Exempt and nonexempt employee time tracking requirements:
+### Exempt and nonexempt employee time tracking requirements
 
 * All time must be maintained and recorded by all exempt and nonexempt employees whose compensation in whole, or in part, is charged to specific client contracts, grants, restricted donations, or government awards.  
 * The distribution of time related to personal time and activities related to the above sources must be done at least once per month via the [OWL Productive platform](https://app.productive.io/22109-open-way-learning/dashboard/widgets). Refer to [this folder](https://drive.google.com/drive/folders/1p12MG6foZOEhwfNJv7qNtue9B8ora4Tj?usp=sharing) for a complete set of “Standard Operating Procedure” videos on how to track and record time in this platform.
@@ -623,7 +620,7 @@ The purpose of this policy is to outline the timekeeping practices for all Open 
 * Each nonexempt and part time employee’s total monthly time allocation must account for employees’ total time. Exempt and full time employees may have time associated with “OWL Operations” that is an overhead charge not linked to a specific client contract, grant, restricted donation, or government award.
 * Final time allocations are subject to internal or external auditing.
 
-#### Additional requirements specific to nonexempt employees
+### Additional requirements specific to nonexempt employees
 For the purposes of this policy, time worked includes all time that a nonexempt employee is required to be performing duties for OWL. Time worked is used to determine overtime pay required for nonexempt employees. All employees are encouraged and expected to take meal and rest breaks, consistent with their responsibilities and applicable law. 
 
 The following provisions are included as time worked:
@@ -638,20 +635,20 @@ Per the Fair Labor Standards Act (FLSA), OWL does not count the following provis
 
 Employees are required to immediately notify the COO or Chair of the Board if they believe they are being pressured or coerced by any manager or other employee to not take any portion of a provided rest break or meal period.
 
-#### Rest breaks
+### Rest breaks
 Non-exempt employees who work 3½ or more hours per day are provided one 15-minute duty-free rest break for every four hours or major fraction thereof worked. For purposes of this policy, “major fraction” means any time greater than two hours. So, if you work at least 3½ hours, but no more than six hours in a workday, you are provided one 15-minute rest break. If you work more than six hours, but no more than 10 hours in a workday, you are provided two 15-minute rest breaks: one during the first half of your shift and a second rest break during the second half of your shift. If you work more than 10 hours but no more than 14 hours in a day, you are provided three 15-minute rest breaks.
 
 Rest breaks from your normal work assignments should be taken as close to the middle of each work period as is practical. Non-exempt employees are paid for all rest break periods. Accordingly, you do not need to “clock out” when taking a rest break. Rest periods may not be accumulated or used as a basis for starting work late, leaving work early, or extending a meal period.
 
-#### Meal periods
+### Meal periods
 Non-exempt employees who work more than five hours in a workday are provided an unpaid, off-duty meal period of at least 30 minutes. Non-exempt employees who work no more than six hours per day can waive their right to an unpaid meal period in writing, with the consent of OWL. Non-exempt employees who work more than 10 hours in a day are provided a second unpaid, off-duty 30-minute meal period. However, any employee covered by this policy who works no more than 12 hours can waive their second meal period, but only if the first one was not waived in any manner. Any waiver of the second meal period must be in writing and submitted before the second meal period. Contact your manager if you would like to waive your right to a second meal period, as explained above.
 
 You are responsible for scheduling your own meal period, but it should begin no later than the end of your fifth hour of work. For example, an employee who begins working at 8 a.m. must begin their meal period no later than 1:00 p.m. When scheduling your meal period, you should try to anticipate your workflow and deadlines in order to be completely off work for at least 30 minutes. Employees are prohibited from working “off the clock” during their meal period.
 
-#### Lactation breaks
+### Lactation breaks
 OWL supports an employee who chooses to breastfeed and will provide reasonable accommodations for this purpose, including reasonable amount of paid break times during the workday to accommodate an employee’s need to express milk for the employee’s infant child each time the employee has need to express. An employee should notify their manager or the COO in cases where they need to request a lactation accommodation beyond what is described in this policy. 
 
-#### Time reporting
+### Time reporting
 All nonexempt employees are responsible for accurately recording the time they begin and end their work, as well as the beginning and ending time of each meal period. They must also record the beginning and ending time of any split shift or departure from work for personal reasons. Such records must be submitted to the employee’s manager (or the COO) no later than the 15th of the following month.
 
 While OWL does not specify an exact form or program that must be used for timekeeping purposes, it is the employee’s responsibility to validate the accuracy of their time record and to certify this accuracy via actual or electronic signature. The OWL bookkeeper will review the time record before submitting it for payroll processing. In the event of an error in reporting time, employees must immediately report the problem to the COO and bookkeeper. 
