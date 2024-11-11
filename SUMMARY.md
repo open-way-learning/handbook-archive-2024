@@ -21,6 +21,7 @@
 * [Our policies](our-policies/README.md)
   * [Code of conduct and ethics](our-policies/code-of-conduct-and-ethics.md)
   * [Equal employment opportunity](our-policies/equal-employment-opportunity.md)
+  * [Policy against workplace harassment](our-policies/policy-against-workplace-harassment.md)
   * [Travel](our-policies/travel.md)
 * [Our terms](our-terms/README.md)
   * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
