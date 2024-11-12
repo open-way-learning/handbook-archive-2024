@@ -25,6 +25,7 @@
   * [Policy against workplace harassment](our-policies/policy-against-workplace-harassment.md)
   * [Religious accommodations](our-policies/religious-accommodations.md)
   * [Flexible paid time off](our-policies/flexible-paid-time-off.md)
+  * [Time off for non exempt employees](our-policies/time-off-for-non-exempt-employees.md)
   * [Travel](our-policies/travel.md)
 * [Our terms](our-terms/README.md)
   * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
