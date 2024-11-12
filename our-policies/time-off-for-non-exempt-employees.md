@@ -13,7 +13,7 @@ The employee must notify their manager of the intent to take personal leave days
 ## Non exempt vacation days
 Full time, non exempt employees earn vacation hours per the table below. These hours are paid at the employee’s regular straight-time rate of pay at the time the vacation is taken. Part time employees are not eligible for paid vacation.
 
-| Length of Service  | Accrual Hours for Each Pay Period | Maximum Annual Days | Maximum Accrual Hours |
+| Length of service  | Accrual hours for each pay period | Maximum annual days | Maximum accrual hours |
 | ------------------ | --------------------------------- | ------------------- | --------------------- |
 | 0 – 12 months | 6 | 9 | 9 |
 | 12 to 72 months | 12 | 18 | 36 |
