@@ -12,6 +12,7 @@
   * [OWL's collective leadership](our-culture/collective-leadership.md)
   * [The open source way](our-culture/the-open-source-way.md)
   * [Startup mindset](our-culture/startup-mindset.md)
+  * [How we conduct meetings](our-culture/how-we-conduct-meetings.md)
   * [Commitment to equity](our-culture/commitment-to-equity.md)
 * [Our strategy](our-strategy/README.md)
   * [Strategy overview](our-strategy/strategy-overview.md)
