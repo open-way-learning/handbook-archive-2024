@@ -9,7 +9,7 @@ Conflict is any situation in which your concerns, desires, perceptions, goals or
 
 The first step is for the employees that experience conflict is to recognize it and then work to address the situation towards a workable resolution. If a resolution is not possible, a manager or mediator should be asked to independently and objectively work with the employees to help foster a satisfactory resolution.
 
-{% hint style="tip" %}
+{% hint style="success" %}
 Employees should be expected to be able to support their positions with data. This will take the conflict from emotional to rational.
 {% endhint %}
 
