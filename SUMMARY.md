@@ -14,6 +14,7 @@
   * [Startup mindset](our-culture/startup-mindset.md)
   * [How we conduct meetings](our-culture/how-we-conduct-meetings.md)
   * [Commitment to equity](our-culture/commitment-to-equity.md)
+  * [Bringing positivity to the workplace](our-culture/bringing-positivity-to-the-workplace.md)
 * [Our strategy](our-strategy/README.md)
   * [Strategy overview](our-strategy/strategy-overview.md)
   * [Key tactics](our-strategy/key-tactics.md)
