@@ -36,6 +36,6 @@ We also take the intellectual property rights of other organizations and individ
 Any questions regarding the use or sharing of OWL materials or other intellectual property should be resolved by the President or COO before a final sharing decision is made.
 {% endhint %}
 
-Refer to the [OWL Terms of Use Policy](/our-terms/terms-of-use-for-owl-materials) for additional information. 
+Refer to the [OWL Terms of Use Policy](/our-terms/terms-of-use-for-owl-materials.md) for additional information. 
 
 
