@@ -46,6 +46,7 @@
   * [Professional development](our-policies/professional-development.md)
   * [Personnel records](our-policies/personnel-records.md)
   * [Use of generative artificial intelligence](our-policies/use-of-general-artificial-intelligence.md)
+  * [COVID-19 safety protocols](our-policies/covid-19-safety-protocols.md)
 * [Our terms](our-terms/README.md)
   * [Terms of use for Open Way Learning materials](our-terms/terms-of-use-for-owl-materials.md)
   * [Pricing structure](our-terms/pricing-structure.md)
