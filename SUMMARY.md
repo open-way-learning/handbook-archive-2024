@@ -8,6 +8,7 @@
   * [Mission and vision](our-purpose/mission-and-vision.md)
   * [Values](our-purpose/values.md)
 * [Our culture](our-culture/README.md)
+  * [New employee orientation](our-culture/new-employee-orientation.md)
   * [The collaborative culture we model in our work](our-culture/the-collaborative-culture-we-model-in-our-work.md)
   * [OWL's collective leadership](our-culture/collective-leadership.md)
   * [The open source way](our-culture/the-open-source-way.md)
