@@ -39,6 +39,7 @@
   * [Time tracking and accountabiility](our-policies/time-tracking-and-accountability.md)
   * [Economic benefits and insurance](our-policies/economic-benefits-and-insurance.md)
   * [Salary administration](our-policies/salary-administration.md)
+  * [Compensation structure for employees](our-policies/compensation-structure-for-employees.md)
   * [Reimbursement of expenses](our-policies/reimbursement-of-expenses.md)
   * [Information technology](our-policies/information-technology.md)
   * [Dress code and personal hygiene](our-policies/dress-code-and-personal-hygiene.md)
