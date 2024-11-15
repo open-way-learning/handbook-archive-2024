@@ -3,7 +3,7 @@ description: Open Way Learning's policies for reimbursement of expenses
 ---
 
 # Reimbursement of expenses
-Reimbursement is authorized for all reasonable and necessary expenses incurred in carrying out job responsibilities, including, but not limited to mileage, parking fees, airfare, lodging, and meal costs when required to attend a work-related function. Expenses should be submitted within 90 days of purchase. Additional details for reimbursement are found in the [OWL Travel Policy](https://docs.google.com/document/d/1_lvw8vxFSF2Qf0LbIIPfAN4ur2GNZEkgTKLCkuOhJ0o/edit?usp=sharing).
+Reimbursement is authorized for all reasonable and necessary expenses incurred in carrying out job responsibilities, including, but not limited to mileage, parking fees, airfare, lodging, and meal costs when required to attend a work-related function. Expenses should be submitted within 90 days of purchase. Additional details for reimbursement are found in the [OWL Travel Policy](/our-policies/travel).
 
 OWL may also pay for employees to attend a conference or professional meeting related to their professional development and/or Open Way Learning’s current and anticipated work.  Expenses for these purposes may be paid by Open Way Learning, if funds are available and the employee obtains prior written approval from the OWL Leadership Team.
 
