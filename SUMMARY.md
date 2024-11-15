@@ -23,6 +23,8 @@
 * [Our methods](our-methods/README.md)
   * [Project management and client-facing work](our-methods/project-management-and-client-facing-work.md)
   * [Work we do in and for schools](our-methods/work-we-do-in-and-for-schools.md)
+* [Our roles](our-roles/README.md)
+  * [Media contacts](our-roles/media-contacts.md)
 * [Our policies](our-policies/README.md)
   * [Code of conduct and ethics](our-policies/code-of-conduct-and-ethics.md)
   * [Employment policies and practices](our-policies/employment-policies-and-practices.md)
