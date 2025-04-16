@@ -1,4 +1,4 @@
-# OWL Handbook Archive (2023)
+# OWL Handbook Archive (2024)
 
 This repository contains a **previous draft** of the Open Way Learning (OWL) Employee Handbook and related materials, maintained during our early testing and exploration of GitHub + GitBook.
 
